@@ -52,7 +52,7 @@ If you are interested in my background, please feel free to contact me via [emai
 Strong verbal & written communication skills in Mandarin and English. CET-4, CET-6, IELTS band score 7.0.
 
 
-<span class='anchor' id='publications'></span>
+<span class='anchor' id='publications-and-patents'></span>
 
 # 📝 Publications and Patents
 
