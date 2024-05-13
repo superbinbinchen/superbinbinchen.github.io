@@ -32,7 +32,7 @@ If you are interested in my background, please feel free to contact me via [emai
 - _2009.09 - 2013.06_, Bachelor of Information Science and Engineering, _Southeast University_, Nanjing, China. **GPA 3.80/4.0**. 
 - _2023.09 - Present_, Master of Engineering Management, Department of Industrial Engineering, _Tsinghua University_, Beijing, China.
 
-<span class='anchor' id='skills-and-certificationss'></span>
+<span class='anchor' id='skills-and-certifications'></span>
 
 # 💬 Skills and Certifications
 
