@@ -61,13 +61,7 @@ Strong verbal & written communication skills in Mandarin and English. CET-4, CET
 - **Gaowei Xu**, Yao Ge, Maximilian DOEMLING, Niklas HAUSER, [Trajectory prediction using deep learning multiple predictor fusion and bayesian optimization](https://patents. google.com/patent/WO2020164089A1/en), WO2020164089A1.
 
 
-<span class='anchor' id='honors-and-awards'></span>
 
-# 🎖 Honors and Awards
-
-- 2020 AWS Certified Machine Learning - Specialty.
-
-<span class='anchor' id='work-experience'></span>
 
 # 💻 Work Experience
 
