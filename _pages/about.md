@@ -56,8 +56,6 @@ Strong verbal & written communication skills in Mandarin and English. CET-4, CET
 
 # 📝 Publications and Patents
 
-- [A 1.5-D Multi-Channel EEG Compression Algorithm Based on NLSPIHT](https://ieeexplore.ieee.org/abstract/document/7004797), **G. Xu**, J. Han, Y. Zou and X. Zeng, In _IEEE Signal Processing Letters_, vol. 22, no. 8, pp. 1118-1122, Aug. 2015, doi: 10.1109/LSP.2015.2389856.
-
 - **Binbin Chen**, "Vehicle function simulation method and device, electronic equipment and storage medium", CN116542047A, Publicly available.
 - **Binbin Chen**, "Development of component generation methods, vehicle function design methods, and electronic devices", under review.
 - **Binbin Chen**, "A full process interactive analog digital automotive system for automotive software", under review.
